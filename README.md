@@ -1,1 +1,1 @@
-| 'Simplicity is prerequisite for reliability.' - Edsger W. Dijkstra
+> 'Simplicity is prerequisite for reliability.' - Edsger W. Dijkstra
